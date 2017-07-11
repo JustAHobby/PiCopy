@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=PiCopy
+Exec=python /home/pi/PiCopy/PiCopy.py
+Path=/home/pi/PiCopy/
+Terminal=False
+Type=Application
+Categories=None;
